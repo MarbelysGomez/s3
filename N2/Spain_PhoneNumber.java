@@ -1,5 +1,4 @@
 package s301.N2;
-
 public class Spain_PhoneNumber implements PhoneNumber {
     private static final String COUNTRY_CODE = "34";
     private String number;

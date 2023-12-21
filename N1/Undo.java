@@ -2,8 +2,6 @@ package s301.N1;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
-import java.util.Stack;
 
 public class Undo {
     private static Undo instance;

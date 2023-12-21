@@ -1,5 +1,4 @@
 package s301.N2;
-
 public class Venezuela_Address implements Address {
     private String street;
     private String city;
